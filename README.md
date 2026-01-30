@@ -20,6 +20,13 @@ This repository contains everything you need to organize, plan, and track progre
   - Staying motivated and success patterns
   - Quick reference for the entire system
 
+- **[VISUAL-MAP.md](VISUAL-MAP.md)** - Visual system overview
+  - Three pillars at a glance
+  - Document flow diagram
+  - Weekly cycle visualization
+  - Priority matrix and energy management
+  - Progress indicators and success metrics
+
 - **[GOALS.md](GOALS.md)** - Master goals document with detailed breakdown of all three pillars
   - Current status, success criteria, milestones, and next actions for each pillar
   - Strategic approach and multi-year vision
