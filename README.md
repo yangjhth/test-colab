@@ -43,15 +43,28 @@ This repository contains everything you need to organize, plan, and track progre
   - Energy management and time blocking
   - Quick start guides for each pillar
 
+- **[QUICK-START.md](QUICK-START.md)** - Quick reference card
+  - Next 3 actions for each pillar at a glance
+  - This week's priority selector
+  - Quick wins checklist
+  - Energy-level based suggestions
+
+- **[WEEKLY-REVIEW-TEMPLATE.md](WEEKLY-REVIEW-TEMPLATE.md)** - Weekly review template
+  - Copy this each week to track progress
+  - Wins, challenges, and insights
+  - Energy and balance check
+  - Next week's planning
+
 ## 🚀 Quick Start Guide
 
 ### Getting Started (First Week)
 
-1. **Read [GOALS.md](GOALS.md)** to understand your three pillars and the vision
-2. **Choose ONE immediate action** from the "Next Actions" section of any pillar
-3. **Block time on your calendar** this week to complete that action
-4. **Update [PROGRESS.md](PROGRESS.md)** when you complete it
-5. **Celebrate the win!** You've started your journey
+1. **Read [QUICK-START.md](QUICK-START.md)** for immediate next actions
+2. **Read [GOALS.md](GOALS.md)** to understand your three pillars and the vision
+3. **Choose ONE immediate action** from the "Next Actions" section of any pillar
+4. **Block time on your calendar** this week to complete that action
+5. **Update [PROGRESS.md](PROGRESS.md)** when you complete it
+6. **Celebrate the win!** You've started your journey
 
 ### Recommended First Actions
 
@@ -80,7 +93,8 @@ This repository contains everything you need to organize, plan, and track progre
 - Use [DAILY-TEMPLATE.md](DAILY-TEMPLATE.md) for planning
 
 ### Weekly (30 minutes, Sunday evening recommended)
-- Review week's progress in [PROGRESS.md](PROGRESS.md)
+- Review week's progress using [WEEKLY-REVIEW-TEMPLATE.md](WEEKLY-REVIEW-TEMPLATE.md)
+- Update [PROGRESS.md](PROGRESS.md) with week's summary
 - Check off completed items in [ACTION-CHECKLISTS.md](ACTION-CHECKLISTS.md)
 - Plan next week's focus areas
 - Block calendar time for next week
@@ -150,12 +164,13 @@ You're succeeding if you:
 
 ## 📞 Next Steps
 
-1. Read [GOALS.md](GOALS.md) fully
-2. Choose your first action
-3. Put it on your calendar THIS WEEK
+1. Read [QUICK-START.md](QUICK-START.md) and pick your first action
+2. Read [GOALS.md](GOALS.md) fully to understand the vision
+3. Put your chosen action on your calendar THIS WEEK
 4. Do it
 5. Update [PROGRESS.md](PROGRESS.md)
-6. Come back next week
+6. Use [WEEKLY-REVIEW-TEMPLATE.md](WEEKLY-REVIEW-TEMPLATE.md) at end of week
+7. Come back next week and repeat!
 
 **Remember**: The best time to plant a tree was 20 years ago. The second best time is now. The same applies to all your goals. Start today! 🌱
 
