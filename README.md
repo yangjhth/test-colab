@@ -14,6 +14,12 @@ This repository contains everything you need to organize, plan, and track progre
 
 ### Core Documents
 
+- **[HOW-TO-USE.md](HOW-TO-USE.md)** - Complete system guide and document map
+  - When to use each document
+  - How to customize the system
+  - Staying motivated and success patterns
+  - Quick reference for the entire system
+
 - **[GOALS.md](GOALS.md)** - Master goals document with detailed breakdown of all three pillars
   - Current status, success criteria, milestones, and next actions for each pillar
   - Strategic approach and multi-year vision
