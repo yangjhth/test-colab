@@ -1,8 +1,21 @@
 # test-colab
 
-## Personal Goal & Planning System
+## Personal Goal & Planning System 🎯
 
 This repository contains a structured system for tracking goals, daily plans, and personal progress.
+
+### 🚀 Quick Start
+
+**New to this system?** Start here:
+1. Read the [Quick Start Guide](QUICK-START.md) (5 min read)
+2. Run the setup script: `./setup-goal-system.sh`
+3. Open `daily/2026-01-30.md` and start planning!
+
+### 📚 Documentation
+
+- **[QUICK-START.md](QUICK-START.md)** - Complete beginner's guide with setup instructions
+- **[QUICK-REFERENCE.md](QUICK-REFERENCE.md)** - Daily checklist and quick commands
+- **[DOCUMENTATION.md](DOCUMENTATION.md)** - Detailed examples and best practices
 
 ### 📁 Directory Structure
 
@@ -18,54 +31,47 @@ test-colab/
 ### 🎯 Current Goals
 
 #### Health & Wellness
-- **TaiChi Daily Practice**: 10 minutes of TaiChi every day
+- **TaiChi Daily Practice**: 10 minutes of TaiChi every day 🧘
+  - Start Date: 2026-01-30
+  - Target: Build consistent daily habit
+  - Milestones: 7, 30, 90, 365 day streaks
 
 ### 🚀 Getting Started
 
-1. Create the directory structure:
+Run the automated setup script:
 ```bash
-mkdir -p goals daily thoughts reviews progress
+chmod +x setup-goal-system.sh
+./setup-goal-system.sh
 ```
 
-2. Copy the template files from below into their respective directories
+This creates all necessary directories and template files in one step!
 
-3. Update daily plans each morning and evening
+### 🏃 Daily Workflow
 
-4. Review progress weekly
+**Morning (2 minutes)**
+- Open or create today's plan: `daily/$(date +%Y-%m-%d).md`
+- Review TaiChi commitment
+- Choose practice time
 
-### 📝 Quick Start Templates
+**Practice (10 minutes)**  
+- Complete your TaiChi practice
 
-#### Daily Plan Template (`daily/YYYY-MM-DD.md`)
-```markdown
-# Daily Plan - [Date]
+**Evening (3 minutes)**
+- Mark practice complete ✅
+- Update streak in `progress/goal-progress.md`
+- Brief reflection
 
-## Top 3 Priorities
-1. 🧘 TaiChi Practice (10 minutes)
-2. [Priority 2]
-3. [Priority 3]
-
-## Tasks
-- [ ] TaiChi Practice (10 minutes)
-- [ ] [Other tasks]
-
-## Evening Reflection
-- TaiChi Completed: [ ] Yes / [ ] No
-- What went well:
-- Tomorrow's focus:
-```
-
-#### Master Goals (`goals/master-goals.md`)
-See detailed template in the goals directory.
-
-#### Progress Tracker (`progress/goal-progress.md`)
-Track daily completion, streaks, and milestones for each goal.
+**Weekly (15 minutes)**
+- Review `reviews/weekly-review.md`
+- Celebrate progress and adjust
 
 ### 📊 Tracking Your TaiChi Practice
 
-- Update your daily plan each day
-- Mark completion in the progress tracker
-- Celebrate streaks: 7 days, 30 days, 90 days, 365 days!
-- Reflect on how you feel after each practice
+Track in multiple places for complete awareness:
+1. **Daily Plans** (`daily/`) - Commitment and daily reflection
+2. **Progress Log** (`progress/goal-progress.md`) - Streaks and statistics  
+3. **Weekly Reviews** (`reviews/`) - Patterns and insights
+4. **Master Goals** (`goals/`) - Milestone progress
 
 ### 💡 Tips for Success
 
