@@ -2,11 +2,15 @@
 
 Welcome to your personal goal organization and planning repository! This system is designed to help you achieve your fun life goals through clarity, actionable plans, and consistent progress.
 
+## 🚀 **NEW?** → Read [START-HERE.md](START-HERE.md) first!
+
 ## 🎯 Your Three Fun Pillars
 
 1. **🎣 Seasonal Crabbing/Fishing** - Outdoor recreation and family bonding
 2. **🌳 Tree Planting** - Environmental stewardship and legacy building  
 3. **🖨️ 3D Printing Art** - Ultimate side gig aligned with inner values
+
+**See [YOUR-PILLARS-SUMMARY.md](YOUR-PILLARS-SUMMARY.md) for a complete overview of how your pillars are integrated.**
 
 ## 📁 System Overview
 
@@ -69,6 +73,13 @@ This repository contains everything you need to organize, plan, and track progre
   - Next week's planning
 
 ## 🚀 Quick Start Guide
+
+### First Time Here?
+
+1. **Read [START-HERE.md](START-HERE.md)** - Quick orientation to your three pillars
+2. **Read [YOUR-PILLARS-SUMMARY.md](YOUR-PILLARS-SUMMARY.md)** - See how everything is integrated
+3. **Read [QUICK-START.md](QUICK-START.md)** - Get your immediate next actions
+4. **Choose ONE action** and do it today!
 
 ### Getting Started (First Week)
 
