@@ -1,44 +1,49 @@
-# TaiChi Daily Practice - Quick Reference Card
+# Daily Goal Tracker - Quick Reference Card
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│         🧘 TAICHI DAILY PRACTICE TRACKER 🧘         │
+│           🎯 DAILY GOAL TRACKER 🎯                  │
 ├─────────────────────────────────────────────────────┤
 │                                                     │
-│  GOAL: 10 minutes of TaiChi every day              │
-│                                                     │
-│  ☐ MORNING                                          │
+│  ☐ MORNING ROUTINE                                  │
 │    • Open today's daily plan                        │
-│    • Choose practice time                           │
+│    • Review all goals                               │
+│    • Choose TaiChi time + one Fun Pillar            │
 │                                                     │
-│  ☐ PRACTICE (10 MINUTES)                            │
+│  ☐ TAICHI PRACTICE (10 MIN) 🧘                      │
 │    • Find quiet space                               │
-│    • Set timer for 10 minutes                       │
-│    • Complete your TaiChi practice                  │
+│    • Complete your practice                         │
 │                                                     │
-│  ☐ EVENING                                          │
-│    • Mark practice complete ✅                      │
-│    • Update progress tracker                        │
-│    • Note how you felt                              │
-│    • Update streak counter                          │
+│  ☐ FUN PILLARS (Choose 1 today) 🎯                  │
+│    🎣 Crabbing/Fishing - Plan family logistics      │
+│    🌳 Tree Planting - Plant or maintain             │
+│    🎨 3D Printing - Learn, design, or print         │
+│                                                     │
+│  ☐ EVENING REFLECTION                               │
+│    • Mark completions ✅                            │
+│    • Update progress trackers                       │
+│    • Note insights and feelings                     │
+│    • Plan tomorrow                                  │
 │                                                     │
 ├─────────────────────────────────────────────────────┤
-│  CURRENT STREAK: ___ days                           │
-│  LONGEST STREAK: ___ days                           │
-│  TOTAL DAYS: ___ / ___ (___%)                       │
+│  PROGRESS AT A GLANCE                               │
+│    TaiChi Streak: ___ days                          │
+│    Fishing Trips Planned: ___                       │
+│    Trees Planted: ___ / ___                         │
+│    3D Prints Made: ___                              │
 ├─────────────────────────────────────────────────────┤
 │  MILESTONES                                         │
-│    ☐  7 days   (1 week)                             │
-│    ☐  30 days  (1 month)                            │
-│    ☐  90 days  (3 months)                           │
-│    ☐ 365 days  (1 year)                             │
+│    TaiChi: ☐ 7d ☐ 30d ☐ 90d ☐ 365d                 │
+│    Fishing: ☐ First trip ☐ 3 trips                 │
+│    Trees: ☐ All planted ☐ 1yr survival             │
+│    3D Print: ☐ First print ☐ Own printer           │
 ├─────────────────────────────────────────────────────┤
 │  REMEMBER                                           │
-│    • Consistency > Perfection                       │
-│    • 10 minutes is achievable                       │
-│    • Track immediately after practice               │
-│    • Same time every day builds habit               │
-│    • If you miss a day, restart tomorrow            │
+│    • Progress over perfection                       │
+│    • Focus on one pillar at a time                  │
+│    • Celebrate small wins                           │
+│    • Track immediately                              │
+│    • Flexibility is strength                        │
 └─────────────────────────────────────────────────────┘
 ```
 

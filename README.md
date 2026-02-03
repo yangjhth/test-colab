@@ -16,6 +16,7 @@ This repository contains a structured system for tracking goals, daily plans, an
 - **[OVERVIEW.md](OVERVIEW.md)** - Visual system overview and roadmap
 - **[QUICK-START.md](QUICK-START.md)** - Complete beginner's guide with setup instructions
 - **[QUICK-REFERENCE.md](QUICK-REFERENCE.md)** - Daily checklist and quick commands
+- **[FUN-PILLARS-GUIDE.md](FUN-PILLARS-GUIDE.md)** - Detailed strategies for the Three Fun Pillars
 - **[DOCUMENTATION.md](DOCUMENTATION.md)** - Detailed examples and best practices
 - **[SETUP-VERIFICATION.md](SETUP-VERIFICATION.md)** - Checklist to verify successful setup
 

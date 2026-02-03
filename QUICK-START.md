@@ -1,6 +1,6 @@
-# Quick Start Guide - TaiChi Daily Practice
+# Quick Start Guide - Goal Tracking System
 
-Welcome to your personal goal tracking system! This guide will help you get started with tracking your TaiChi practice goal.
+Welcome to your personal goal tracking system! This guide will help you get started with tracking your goals including TaiChi practice and your Three Fun Pillars.
 
 ## 🚀 Setup (First Time Only)
 
@@ -12,50 +12,73 @@ chmod +x setup-goal-system.sh
 ```
 
 This creates:
-- `goals/master-goals.md` - Your master goal document
-- `daily/2026-01-30.md` - Today's daily plan
+- `goals/master-goals.md` - TaiChi + Three Fun Pillars goals
+- `daily/2026-02-03.md` - Today's daily plan
 - `thoughts/thought-journal.md` - Journal for reflections
 - `reviews/weekly-review.md` - Weekly review template
-- `progress/goal-progress.md` - Progress tracker with streaks
+- `progress/goal-progress.md` - Progress tracker for all goals
 
 ## 📋 Daily Routine
 
 ### Morning (5 minutes)
 1. Open or create today's daily plan: `daily/YYYY-MM-DD.md`
-2. Review your top 3 priorities (TaiChi should be #1!)
+2. Review your top 3 priorities
 3. Choose your TaiChi practice time for today
-4. Plan the rest of your day
+4. Select one Fun Pillar to focus on today
+5. Plan the rest of your day
 
 ### During the Day
 - Complete your 10-minute TaiChi practice at your chosen time
+- Make progress on your chosen Fun Pillar activity
 - Take notes if you have any insights or thoughts
 
 ### Evening (5 minutes)
 1. Open today's daily plan
 2. Complete the evening reflection section:
    - Mark TaiChi as complete ✅
-   - Note how long you practiced
+   - Note Fun Pillars progress
    - Write how you felt
    - Plan tomorrow's priority
 
 3. Update your progress tracker (`progress/goal-progress.md`):
-   - Add today's entry to the table
-   - Update your streak counter
+   - Add today's entries to the tables
+   - Update your streak counters
    - Celebrate if you hit a milestone!
 
 ## 📊 Weekly Routine (Sunday or Monday)
 
 1. Open `reviews/weekly-review.md`
-2. Count how many days you practiced this week
-3. Calculate total minutes
-4. Reflect on what worked and what didn't
-5. Plan adjustments for next week
+2. Review each goal:
+   - TaiChi: Days practiced and total minutes
+   - Crabbing/Fishing: Family logistics progress
+   - Tree Planting: Planting or maintenance completed
+   - 3D Printing: Learning and creation progress
+3. Reflect on what worked and what didn't
+4. Plan adjustments for next week
 
-## 🎯 Your TaiChi Goal
+## 🎯 Your Goals
 
+### TaiChi Daily Practice 🧘
 **What**: Practice TaiChi for 10 minutes every day  
 **Why**: Improve health, reduce stress, build mindfulness  
 **How**: Choose a consistent time, find a quiet space, track daily  
+
+### Three Fun Pillars
+
+#### 1. Seasonal Crabbing/Fishing 🎣
+**What**: Family crabbing and fishing adventures during the season  
+**Why**: Quality family time, outdoor traditions, create memories  
+**How**: Coordinate schedules, plan trips, enjoy nature together  
+
+#### 2. Tree Planting 🌳
+**What**: Plant and nurture trees at prepared sites  
+**Why**: Environmental legacy, connection to earth, meaningful work  
+**How**: Schedule high-energy planting days, maintain regular care  
+
+#### 3. 3D Printing Art 🎨
+**What**: Develop creative side project integrating art and spirituality  
+**Why**: Creative expression, skill development, value alignment  
+**How**: Start local → learn workflow → buy printer → master → integrate spirituality  
 
 ### Milestones to Celebrate
 - ✨ 7-day streak (1 week)
