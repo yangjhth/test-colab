@@ -62,6 +62,8 @@ chmod +x setup-goal-system.sh
 
 This creates all necessary directories and template files in one step!
 
+**Ready to take action now?** See [GET-STARTED-TODAY.md](GET-STARTED-TODAY.md) for immediate first steps on each Fun Pillar.
+
 ### 🏃 Daily Workflow
 
 **Morning (2 minutes)**
