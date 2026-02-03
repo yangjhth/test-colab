@@ -1,11 +1,18 @@
-# TaiChi Daily Practice - System Overview
+# Goal Tracking System - Overview
 
-## 🎯 Your Goal
-**Practice TaiChi for 10 minutes every day**
+## 🎯 Your Goals
+
+### Health & Wellness
+**TaiChi Daily Practice** - 10 minutes every day 🧘
+
+### Fun & Recreation - The Three Pillars
+1. **Seasonal Crabbing/Fishing** 🎣 - Family adventures in nature
+2. **Tree Planting** 🌳 - Environmental legacy building  
+3. **3D Printing Art** 🎨 - Creative expression and spiritual integration
 
 ## 📦 What's Included
 
-This repository now contains a complete goal tracking and daily planning system specifically designed to help you build and maintain your TaiChi practice habit.
+This repository contains a complete goal tracking and daily planning system designed to help you build sustainable habits and make progress on meaningful goals.
 
 ### 📄 Core Documentation Files
 
@@ -39,10 +46,10 @@ test-colab/
 └── 📂 Goal Tracking System (Created When You Run Setup)
     │
     ├── goals/
-    │   └── master-goals.md          ← Your TaiChi goal + others
+    │   └── master-goals.md          ← TaiChi + Three Fun Pillars
     │
     ├── daily/
-    │   ├── 2026-01-30.md            ← Today's plan
+    │   ├── 2026-02-03.md            ← Today's plan
     │   └── TEMPLATE-daily-plan.md   ← Template for new days
     │
     ├── thoughts/
@@ -66,17 +73,19 @@ chmod +x setup-goal-system.sh
 ### Step 2: Plan Your Day (2 minutes)
 ```bash
 # Open today's plan
-vim daily/2026-01-30.md
+vim daily/2026-02-03.md
 # or use your preferred editor
 ```
 
-### Step 3: Practice! (10 minutes)
-- Find your quiet space
-- Set a 10-minute timer
-- Do your TaiChi practice
+### Step 3: Take Action!
+- **TaiChi**: 10-minute practice
+- **Fun Pillar**: Choose one to focus on today
+  - Plan family fishing logistics
+  - Schedule tree planting day
+  - Research local makerspaces for 3D printing
 
 ### Step 4: Track (2 minutes)
-- Mark complete in `daily/2026-01-30.md`
+- Mark complete in `daily/2026-02-03.md`
 - Update `progress/goal-progress.md`
 - Celebrate! 🎉
 

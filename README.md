@@ -38,6 +38,19 @@ test-colab/
   - Target: Build consistent daily habit
   - Milestones: 7, 30, 90, 365 day streaks
 
+#### Fun & Recreation - The Three Pillars
+- **Seasonal Crabbing/Fishing** 🎣: Family adventures in nature
+  - Status: Gear ready, planning family logistics
+  - Focus: Quality family time and outdoor traditions
+  
+- **Tree Planting** 🌳: Environmental legacy building
+  - Status: Trees and sites prepared
+  - Focus: Initial planting energy, then maintenance routine
+  
+- **3D Printing Art** 🎨: Creative side project
+  - Status: Planning phase - start local, learn, master, integrate spirituality
+  - Focus: Long-term skill development and artistic expression
+
 ### 🚀 Getting Started
 
 Run the automated setup script:
